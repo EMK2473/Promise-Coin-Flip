@@ -23,16 +23,13 @@ A demonstration of how 'promises' work using a coin flip and 'Uber' for the exam
 inquirer@8.2.4
   
 ## Application Usage
-Use this application by reviewing the code and run the command line to visually see how a promise works. Promises are dependent on much more than a coin flip, but for this examples purposes we leave it to chance!
+Use this application by reviewing the code and run the command line to visually see how a promise works. Promises are dependent on much more than a coin flip, but for this example's purposes we leave it to chance!
     
 ## Contributions
 Eric Keeton
   
 ## Test Commands
 node index.js
-  
-## Link to Video Instructions
-n/a
   
 ## Screenshot
 ![screenshot of application](./assets/promiseScreenShot.png)
