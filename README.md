@@ -17,13 +17,13 @@ Licensing: [mit](https://choosealicense.com/licenses/mit/)
 - [Questions](#questions)
   
 ## Description
-A demonstration of how 'promises' work using a coin flip and 'Uberfor the example.
+A demonstration of how 'promises' work using a coin flip and 'Uber' for the example.
   
 ## Installation Requirements
 inquirer@8.2.4
   
 ## Application Usage
-Look at the code and run the command line to visually see how promisework.
+Use this application by reviewing the code and run the command line to visually see how a promise works. Promises are dependent on much more than a coin flip, but for this examples purposes we leave it to chance!
     
 ## Contributions
 Eric Keeton
@@ -35,7 +35,7 @@ node index.js
 n/a
   
 ## Screenshot
-![screenshot of application](n/a)
+![screenshot of application](./assets/promiseScreenShot.png)
   
 ## Questions
 For Questions, contact me at emk2473@gmail.com or visit My Github[EMK2473](https://github.com/EMK2473)
